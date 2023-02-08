@@ -1,1 +1,1 @@
-ls -l : display current directory in a long format
+ls -lna : 5-listfilesdigitonly
