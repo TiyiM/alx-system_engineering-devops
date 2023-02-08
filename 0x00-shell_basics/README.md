@@ -1,1 +1,1 @@
-pwd:write a script that prints the absolute path name of the current working directory
+ls -l : display current directory in a long format
